@@ -1,10 +1,10 @@
-package com.zhanct.microservice_practice;
+package com.zhangct.unifiedexceptionhandler;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MicroservicePracticeApplicationTests {
+class UnifiedExceptionHandlerApplicationTests {
 
     @Test
     void contextLoads() {
